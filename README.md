@@ -18,7 +18,7 @@ Some of my favorite languages include Python, Javascript and Typescript, and C#.
 
 For more information about me and to see a few of my previous projects, visit my website :computer: at [benjaminashbaugh.me](https://benjaminashbaugh.me/)
 
-Contact me at https://benjaminashbaugh.me/#contact
+[Contact me here](https://benjaminashbaugh.me/#contact)
 
 _code go brrr_
 
