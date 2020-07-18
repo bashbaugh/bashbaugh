@@ -1,12 +1,14 @@
 ### Hi there 👋
 
-My name is Benjamin Ashbaugh and I'm a 15yo computer-enthusiast, programmer, and student from Lafayette, Colorado. 
+My name is Benjamin Ashbaugh and I'm a 15yo computer-enthusiast, programmer, and student from Lafayette, Colorado. I like code, books, video games, and fly-fishing.
 
-I'm currently working on a few projects, including my [Hack Club Summer of Making](https://hackclub.com/) project, a Donkeycar-inspired robocar with OpenCV computer vision and tensorflow behavioural cloning. View the [repo](https://github.com/scitronboy/robocar) and my [summer scrapbook](https://scrapbook.benjaminashbaugh.me/).
+:rocket: I'm currently working on a few projects, including my [Hack Club Summer of Making](https://hackclub.com/) project, a Donkeycar-inspired robocar :car: with OpenCV computer vision and tensorflow behavioural cloning. View the [repo](https://github.com/scitronboy/robocar) and my [summer scrapbook](https://scrapbook.benjaminashbaugh.me/).
 
 I'm also brainstorming ideas for my entry for this year's [Congressional App Challenge](https://www.congressionalappchallenge.us/).
 
-For more information about me and to see a few of my previous projects, visit my website at [benjaminashbaugh.me](https://benjaminashbaugh.me/)
+Some of my favorite languages include Python, Javascript and Typescript, and C#. Some of my favorite libraries :books: and frameworks include Flask, Keras, Express, and Vue.
+
+For more information about me and to see a few of my previous projects, visit my website :computer: at [benjaminashbaugh.me](https://benjaminashbaugh.me/)
 
 _code go brrr_
 
