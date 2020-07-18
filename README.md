@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+My name is Benjamin Ashbaugh and I'm a 15yo computer-enthusiast, programmer, and student from Lafayette, Colorado. 
+
+I'm currently working on a few projects, including my [Hack Club Summer of Making](https://hackclub.com/) project, a Donkeycar-inspired robocar with OpenCV computer vision and tensorflow behavioural cloning. View the [repo](https://github.com/scitronboy/robocar) and my [summer scrapbook](https://scrapbook.benjaminashbaugh.me/).
+
+I'm also brainstorming ideas for my entry for this year's [Congressional App Challenge](https://www.congressionalappchallenge.us/).
+
+For more information about me and to see a few of my previous projects, visit my website at [benjaminashbaugh.me](https://benjaminashbaugh.me/)
+
+_code go brrr_
+
 <!--
 **scitronboy/scitronboy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
