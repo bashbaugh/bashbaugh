@@ -10,7 +10,7 @@ export default {
 }
 ```
 
-:rocket: I'm currently working on a few projects, including my [Hack Club Summer of Making](https://hackclub.com/) project, a Donkeycar-inspired robocar :car: with OpenCV computer vision and tensorflow behavioural cloning. View the [repo](https://github.com/scitronboy/robocar) and my [summer scrapbook](https://scrapbook.benjaminashbaugh.me/).
+:rocket: I'm currently working on a few projects, including my [Hack Club Summer of Making](https://hackclub.com/) project, a Donkeycar-inspired robocar :car: based on the Raspberry Pi 4 with OpenCV computer vision and tensorflow behavioural cloning. View the [repo](https://github.com/scitronboy/robocar) and my [summer scrapbook](https://scrapbook.benjaminashbaugh.me/).
 
 I'm also brainstorming ideas for my entry for this year's [Congressional App Challenge](https://www.congressionalappchallenge.us/).
 
