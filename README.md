@@ -24,9 +24,9 @@ For more information about me and to see a few of my previous projects, visit my
 
 #### Stats and stuff
 
-![stats](https://github-readme-stats.vercel.app/api?username=scitronboy&show_icons=true&count_private=true&include_all_commits=true&theme=gruvbox)
+![stats](https://benjamins-readme-stats.vercel.app/api?username=scitronboy&show_icons=true&count_private=true&include_all_commits=true&theme=gruvbox)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=scitronboy&layout=compact)
+![Top Langs](https://benjamins-readme-stats.vercel.app/api/top-langs/?username=scitronboy&layout=compact)
 
 ![profile views counter](https://komarev.com/ghpvc/?username=scitronboy&color=orange)
 
