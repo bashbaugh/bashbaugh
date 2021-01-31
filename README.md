@@ -3,10 +3,10 @@
 ```javascript
 export default {
   name: "Benjamin Ashbaugh",
-  age: 15,
+  age: 16,
   description: "computer-enthusiast, programmer, and student",
-  location: "Lafayette, Colorado",
-  interests: ['code', 'books', 'video games', 'math', 'science', 'fly-fishing'],
+  location: "Colorado, US",
+  interests: ['code', 'books', 'math', 'science', 'physics', 'fly-fishing'],
 }
 ```
 
