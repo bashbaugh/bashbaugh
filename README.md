@@ -10,13 +10,15 @@ export default {
 }
 ```
 
-:rocket: I'm currently working on a few projects, including my [Hack Club Summer of Making](https://hackclub.com/) project, a Donkeycar-inspired robocar :car: based on the Raspberry Pi 4 with OpenCV computer vision and tensorflow behavioural cloning. View the [repo](https://github.com/scitronboy/robocar) and my [summer scrapbook](https://scrapbook.benjaminashbaugh.me/).
+:telescope: I'm currently working on a few projects, including a concept for a "decentralized social idea network", and my [thesaurus Chrome extension](https://github.com/scitronboy/simply-synonyms).
 
-:telescope: I'm also working on my [thesaurus Chrome extension](https://github.com/scitronboy/simply-synonyms) and trying to figure out networking for my [multiplayer math game](https://arithmerace.com/).
+:thinking: The other day I made [tools.bweb.app](https://tools.bweb.app/), a small collection of useful productivity tools. I'm also experimenting with Flutter.
 
-Some of my favorite languages include Python, Javascript and Typescript, and C#. Some of my favorite libraries :books: and frameworks include Flask, Keras, Express, and Vue.
+<!-- :rocket: -->
 
-:seedling: I also want to learn Flutter/Dart and Rust.
+Some of my favorite languages include Python, Javascript/Typescript, and C#. Some of my favorite libraries :books: and frameworks include Flask, Keras, Express, and Vue.
+
+:seedling: I also really want to Rust but haven't yet thought of any projects that it would be a good fit for. 
 
 For more information about me and to see a few of my previous projects, visit my website :computer: at [benjaminashbaugh.me](https://benjaminashbaugh.me/)
 
