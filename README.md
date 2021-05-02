@@ -11,7 +11,7 @@ export default {
 
 :wave: Hey! I'm Benjamin, a developer and student from Colorado. I'm currently working on **[Brainbook](https://brainbook.app/)** :rocket:
 
-:telescope: A few other recent projects include a [GPT-3 powered cow chatbot](https://github.com/hackclub/cow2) :cow:, a concept for a decentralized social network focused on realistic conversation and serious discussion, my [thesaurus Chrome extension](https://github.com/scitronboy/simply-synonyms), and [tools.bweb.app](https://tools.bweb.app/), a small collection of useful productivity tools.
+:telescope: A few other recent projects include a [GPT-3 powered cow chatbot](https://github.com/hackclub/cow2) :cow:, a concept for a decentralized social network focused on realistic conversation and serious discussion, my [thesaurus Chrome extension](https://github.com/scitronboy/simply-synonyms), and [tools.bweb.app](https://tools.bweb.app/) - a small collection of useful productivity tools.
 
 <!--Some of my favorite languages include Python, Typescript, and Rust. Some of my favorite libraries :books: and frameworks include Flask, Keras, Express, React, and Vue.-->
 
