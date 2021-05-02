@@ -5,7 +5,7 @@ export default {
   name: "Benjamin Ashbaugh",
   description: "computer-enthusiast, programmer, and student",
   location: "Colorado, US",
-  interests: ['code', 'books', 'math', 'science', 'physics', 'fly-fishing'],
+  interests: ['coding', 'reading', 'math', 'physics'],
 }
 ```
 
