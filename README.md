@@ -1,4 +1,4 @@
-![banner](/banner1.png)
+![banner](/banner2.png)
 
 ```javascript
 export default {
