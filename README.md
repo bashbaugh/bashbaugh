@@ -19,9 +19,14 @@ export default {
 
 #### Stats and stuff
 
-![stats](https://benjamins-readme-stats.vercel.app/api?username=bashbaugh&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight)
+<p float="left">
+  <img src="https://benjamins-readme-stats.vercel.app/api?username=bashbaugh&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight" />
+  <img src="https://benjamins-readme-stats.vercel.app/api/top-langs/?username=bashbaugh&layout=compact&theme=tokyonight&num_langs=8" /> 
+</p>
 
-![Top Langs](https://benjamins-readme-stats.vercel.app/api/top-langs/?username=bashbaugh&layout=compact&theme=tokyonight&num_langs=8)
+<!-- ![stats](https://benjamins-readme-stats.vercel.app/api?username=bashbaugh&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight) -->
+
+<!-- ![Top Langs](https://benjamins-readme-stats.vercel.app/api/top-langs/?username=bashbaugh&layout=compact&theme=tokyonight&num_langs=8) -->
 
 <!--![profile views counter](https://komarev.com/ghpvc/?username=scitronboy&color=orange)-->
 
