@@ -1,3 +1,5 @@
+![banner](/banner1.png)
+
 ```javascript
 export default {
   name: "Benjamin Ashbaugh",
