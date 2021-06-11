@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ```javascript
 export default {
   name: "Benjamin Ashbaugh",
