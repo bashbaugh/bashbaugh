@@ -21,7 +21,7 @@ export default {
 
 ![stats](https://benjamins-readme-stats.vercel.app/api?username=scitronboy&show_icons=true&count_private=true&include_all_commits=true&theme=merko)
 
-![Top Langs](https://benjamins-readme-stats.vercel.app/api/top-langs/?username=scitronboy&layout=compact&theme=merko&num_langs=8)
+![Top Langs](https://benjamins-readme-stats.vercel.app/api/top-langs/?username=scitronboy&layout=compact&theme=merko)
 
 <!--![profile views counter](https://komarev.com/ghpvc/?username=scitronboy&color=orange)-->
 
