@@ -9,9 +9,9 @@ export default {
 }
 ```
 
-:wave: Hey! I'm Benjamin, a developer and student from Colorado. I'm currently working on **[Simply Synonyms](https://simplysynonyms.com/)** :rocket:
+:wave: Hey! I'm Benjamin, a developer and student from Colorado.
 
-:telescope: A few other recent projects include a [small collection of creative projects](https://b3n.fun) (coming soon), a [GPT-3 powered cow chatbot](https://github.com/hackclub/cow2) :cow:, [Tetris for Slack](https://github.com/bashbaugh/slack-tetris), [tools.bweb.app](https://tools.bweb.app/) - a small collection of useful productivity tools.
+<!-- :telescope: A few other recent projects include a [small collection of creative projects](https://b3n.fun) (coming soon), a [GPT-3 powered cow chatbot](https://github.com/hackclub/cow2) :cow:, [Tetris for Slack](https://github.com/bashbaugh/slack-tetris), [tools.bweb.app](https://tools.bweb.app/) - a small collection of useful productivity tools. -->
 
 <!--Some of my favorite languages include Python, Typescript, and Rust. Some of my favorite libraries :books: and frameworks include Flask, Keras, Express, React, and Vue.-->
 
