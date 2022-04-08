@@ -1,4 +1,4 @@
-[![banner](/banner3.png)](https://benjaminashbaugh.me)
+[![banner](/bannerv4.png)](https://benjaminashbaugh.me)
 
 ```javascript
 export default {
