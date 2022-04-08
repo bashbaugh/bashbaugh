@@ -1,15 +1,13 @@
 [![banner](/bannerv4.png)](https://benjaminashbaugh.me)
 
-```javascript
+<!--```javascript
 export default {
   name: "Benjamin Ashbaugh",
   description: "computer-enthusiast, programmer, and student",
   location: "Colorado, US",
   interests: ['coding', 'reading', 'math', 'physics'],
 }
-```
-
-:wave: Hey! I'm Benjamin, a developer and student from Colorado.
+```-->
 
 <!-- :telescope: A few other recent projects include a [small collection of creative projects](https://b3n.fun) (coming soon), a [GPT-3 powered cow chatbot](https://github.com/hackclub/cow2) :cow:, [Tetris for Slack](https://github.com/bashbaugh/slack-tetris), [tools.bweb.app](https://tools.bweb.app/) - a small collection of useful productivity tools. -->
 
